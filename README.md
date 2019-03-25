@@ -1,6 +1,6 @@
 # Project Title
 
-BMFun @ BahasaMalaysiaFun is an native android application. 
+BMFun @ BahasaMalaysiaFun is a native android application. 
 
 ## Objective
 
