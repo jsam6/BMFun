@@ -14,6 +14,8 @@ BMFun is basically a Fill-in-the-Blank game where user can iteract with images b
 ### Images
 Question: Bagai Duri dalam ______
 
+Answer: Daging (Image of a meat)
+
 Method: User has to drag desired image to provided blank. If the selected answer is CORRECT, then user will only be able to proceed to the next question.
 
 There is also a time limit for each session.
